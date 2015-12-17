@@ -1,7 +1,6 @@
 #Ticketee
 
-Ticketee is a ticket-tracking application made using [Rails 4 In Action](https://www.manning.com/books/rails-4-in-action).
+Ticketee is a ticket-tracking application.
 
 ##Requirements
-*Rails 4+
-
+*Rails 4
