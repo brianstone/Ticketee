@@ -16,7 +16,7 @@ RSpec.feature "Users can view tickets" do
     visit "/"
   end
 
-  scenario "for a give project" do
+  scenario "for a given project" do
     click_link "Sublime Text 3"
 
     expect(page).to have_content "Make it shiny!"
