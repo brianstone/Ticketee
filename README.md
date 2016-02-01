@@ -16,3 +16,5 @@ Ticketee is a ticket-tracking application made using [Rails 4 In Action](https:/
 ###Test
 * [capybara](https://github.com/jnicklas/capybara)
 * [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails)
+* [selenium-webdriver](https://github.com/vertis/selenium-webdriver)
+* [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
