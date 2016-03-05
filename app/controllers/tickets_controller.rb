@@ -56,7 +56,7 @@ end
 private
 
 def ticket_params
-  params.require(:ticket).permit(:name, :description, attachments_attributes: [:file, :file_cache])
+  params.require(:ticket).permit(:name, :description, :tag_names, attachments_attributes: [:file, :file_cache])
     #The above allows for the ticket params to accept attachments as nested attributes.
 end
 
